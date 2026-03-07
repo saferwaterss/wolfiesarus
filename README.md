@@ -5,7 +5,7 @@
 <img src="https://64.media.tumblr.com/93cefa5803118ac61ff87493fb7ea6a4/b0312ff9d0c62524-6a/s250x400/c592c596873ea254febeb99644841919f72d1105.gifv" alt="radiohead in rainbows blinky">
 <img src="https://64.media.tumblr.com/57bf511b17b05cdb3dde016efa27b499/dc4189d05dad86ae-b0/s250x400/310c26d850553bea25cac8682b23aac363367133.gifv" alt="cowboy blinky">
 <img src="https://64.media.tumblr.com/e6cb7d125da5a3e073114d962932df39/5d5c704661449d2b-c8/s250x400/8c053869c40de65e2ef2eb968f6ae0050c8f9930.gifv" alt="gay german blinky">
-<img src="https://64.media.tumblr.com/628969221e9acb6d7b29b4a9ffc58c30/6f45d4615184cded-20/s400x600/8b50cbc8c1b7f7f412912cf444db89687c2e6580.webp" alt="tenna blinky">
 <img src="https://64.media.tumblr.com/d128b9c9daead3da9c789a69574c2b05/573e1a07cb0d74a7-db/s540x810/ae9abcddfc12b2ce9a73eec8e168e54b7d914e8b.pnj" alt="about me important info" width="1000" height="563">
 <img src="https://64.media.tumblr.com/9e55e14ddf20cdf55ee2ba56439dc542/6628fa21fb8eb70f-2f/s540x810/0a5c9dc1be1e2b1243fd7a2a31b5910a82a05a8e.pnj" alt="about me interests and boxes" width="1000" height="563">
 <img src="https://64.media.tumblr.com/7d935eff02ba0ea68eeedc0e1b668024/c318fa892b7c9b84-87/s400x600/98b184f853fffb2e09f13bd9049f0f7c4b4bf3bf.gifv" alt="ultrakill blinky">
+<img src="https://64.media.tumblr.com/628969221e9acb6d7b29b4a9ffc58c30/6f45d4615184cded-20/s400x600/8b50cbc8c1b7f7f412912cf444db89687c2e6580.webp" alt="tenna blinky">
