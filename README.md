@@ -1,5 +1,4 @@
 <img src="https://64.media.tumblr.com/0271916586e3e4c8e807e81e2999e71a/355018e73da58fd2-69/s250x400/aa95b0ea33b6755ed9812ec1b824262f97f978da.gifv" alt="sleep token blinky">
-<img src="https://64.media.tumblr.com/02aafb8de5336865a1c6627c78eb3795/db7f482dfcc9276f-97/s100x200/5384482db60e2b2f1a24b1822867c7e07409eee9.gifv" alt="nine inch nails blinky">
 <img src="https://64.media.tumblr.com/5f717aeef5e44efa0e65224f56c1865a/96987e7810e97630-f5/s250x400/2ef5fc704d9790f8508fc6a18df243cdc294b9ef.gifv" alt="deftones blinky">
 
 ![](https://komarev.com/ghpvc/?username=wolfiesarus&color=red&style=plastic&base=315&abbreviated=true)
