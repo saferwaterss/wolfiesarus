@@ -8,6 +8,7 @@
 <img src="https://64.media.tumblr.com/5100ab427c205a24799efda2f6c9e290/6f45d4615184cded-f3/s250x400/f041e9471f7564b2c9b6c580f568db8fa41d0b7d.gifv" alt="nine inch nails blinky">
 <img src="https://64.media.tumblr.com/9455ec6b8ec4bc54e96ba4cef0613c5d/cf16b3d0339b4d0e-8f/s400x600/01331ccd978a601d564ef7c8a985657f678cd653.gifv" alt="pronouns blinky">
 <img src="https://64.media.tumblr.com/c87f5bedb3363794f6ea568b40d6ffea/d43e5d41fda57918-5c/s250x400/a79897e761ecdc5ce303b52a669e0f24e0b4d9a5.gifv" alt="pierce the veil blinky">
+<img src="https://64.media.tumblr.com/47486ea509dfd190274158364278e1e6/17830f45057bdad0-89/s250x400/95e4628133252b6b1608d72e4d8960fb794e10df.gifv" alt="pierce the veil blinky">
 <img src="https://64.media.tumblr.com/d128b9c9daead3da9c789a69574c2b05/573e1a07cb0d74a7-db/s540x810/ae9abcddfc12b2ce9a73eec8e168e54b7d914e8b.pnj" alt="about me important info" width="1000" height="563">
 <img src="https://64.media.tumblr.com/9e55e14ddf20cdf55ee2ba56439dc542/6628fa21fb8eb70f-2f/s540x810/0a5c9dc1be1e2b1243fd7a2a31b5910a82a05a8e.pnj" alt="about me interests and boxes" width="1000" height="563">
 <img src="https://64.media.tumblr.com/7d935eff02ba0ea68eeedc0e1b668024/c318fa892b7c9b84-87/s400x600/98b184f853fffb2e09f13bd9049f0f7c4b4bf3bf.gifv" alt="ultrakill blinky">
