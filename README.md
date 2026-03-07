@@ -3,6 +3,6 @@
 <img src="https://64.media.tumblr.com/5f717aeef5e44efa0e65224f56c1865a/96987e7810e97630-f5/s250x400/2ef5fc704d9790f8508fc6a18df243cdc294b9ef.gifv" alt="deftones blinky">
 <img src="https://64.media.tumblr.com/dfe90247cddf598fe347945f686eee81/b0312ff9d0c62524-c3/s250x400/38139c5b25c3668521195e9c22b14ca56eb76e2c.gifv" alt="and one blinky">
 <img src="https://64.media.tumblr.com/93cefa5803118ac61ff87493fb7ea6a4/b0312ff9d0c62524-6a/s250x400/c592c596873ea254febeb99644841919f72d1105.gifv" alt="radiohead in rainbows blinky">
-<img src="https://64.media.tumblr.com/bd555635865894345d3298269ac920f5/d22ce15bfe50124b-6a/s100x200/0c2689d799752ed7ebe752e95d3b1a3a9f78bf01.webp" alt="cowboy blinky">
+<img src="https://64.media.tumblr.com/57bf511b17b05cdb3dde016efa27b499/dc4189d05dad86ae-b0/s250x400/310c26d850553bea25cac8682b23aac363367133.gifv" alt="cowboy blinky">
 <img src="https://64.media.tumblr.com/d128b9c9daead3da9c789a69574c2b05/573e1a07cb0d74a7-db/s540x810/ae9abcddfc12b2ce9a73eec8e168e54b7d914e8b.pnj" alt="about me important info" width="1000" height="563">
 <img src="https://64.media.tumblr.com/9e55e14ddf20cdf55ee2ba56439dc542/6628fa21fb8eb70f-2f/s540x810/0a5c9dc1be1e2b1243fd7a2a31b5910a82a05a8e.pnj" alt="about me interests and boxes" width="1000" height="563">
