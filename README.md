@@ -6,7 +6,16 @@
 
 <div align="center">
   Helloww I'm Kieran <3
+</div>
+    
+<div align="center">
   He/Him/They/Them (pref. He/Him)
+</div>
+
+<div align="center">
   21 | usually with friends
+</div>
+
+<div align="center">
   All other information can be found on my strawpage !!!
 </div>
