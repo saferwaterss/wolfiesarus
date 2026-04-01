@@ -5,11 +5,12 @@
 </div>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/fc5f77cf9d4c9a6266ec079465b570fe/d5679393135bb36e-ff/s250x400/8afdcc8ce10c6ef1e72e66c8e72e419219430073.pnj" alt="clovers blinkie">
+  <img src="https://64.media.tumblr.com/fc5f77cf9d4c9a6266ec079465b570fe/d5679393135bb36e-ff/s250x400/8afdcc8ce10c6ef1e72e66c8e72e419219430073.pnj" alt="clovers stamp">
 </div>
 
+
 <div align="center">
-  <img src="https://64.media.tumblr.com/5f717aeef5e44efa0e65224f56c1865a/96987e7810e97630-f5/s250x400/2ef5fc704d9790f8508fc6a18df243cdc294b9ef.gifv" alt="deftones blinky">
+  <img src="https://64.media.tumblr.com/dfe90247cddf598fe347945f686eee81/b0312ff9d0c62524-c3/s250x400/38139c5b25c3668521195e9c22b14ca56eb76e2c.gifv" alt="joy and whimsy even blinkie">
 </div>
 
 
@@ -47,11 +48,11 @@
 </div>
 
 
-
 <div align="center">
-  <img src="https://64.media.tumblr.com/dfe90247cddf598fe347945f686eee81/b0312ff9d0c62524-c3/s250x400/38139c5b25c3668521195e9c22b14ca56eb76e2c.gifv" alt="and one blinky">
+  <img src="https://64.media.tumblr.com/b87c182aaa1ec9a1354c113163805c7e/b4963413b3d05ae7-4e/s250x400/02b213500d06dabfb8669b7578fb2e2d9025f022.gifv" alt="whimsy rocks blinkie">
 </div>
 
+
 <div align="center">
-  <img src="https://64.media.tumblr.com/93cefa5803118ac61ff87493fb7ea6a4/b0312ff9d0c62524-6a/s250x400/c592c596873ea254febeb99644841919f72d1105.gifv" alt="radiohead in rainbows blinky">
+  <img src="https://64.media.tumblr.com/c5add88e7517c2adf55174835c7e83a2/d5679393135bb36e-6f/s250x400/5e88ab73a01f9dea3f2682a248792647da2eef6b.pnj" alt="grass blades stamp">
 </div>
