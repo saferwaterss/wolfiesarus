@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/0271916586e3e4c8e807e81e2999e71a/355018e73da58fd2-69/s250x400/aa95b0ea33b6755ed9812ec1b824262f97f978da.gifv" alt="sleep token blinky">
+  <img src=https://64.media.tumblr.com/fc5f77cf9d4c9a6266ec079465b570fe/d5679393135bb36e-ff/s250x400/8afdcc8ce10c6ef1e72e66c8e72e419219430073.pnj" alt="clovers blinkie">
 </div>
 
 <div align="center">
