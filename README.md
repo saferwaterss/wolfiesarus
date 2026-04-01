@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  Helloww I'm Kieran <3
+  Helloww I'm Kieran/Wolfie <3
 </div>
     
 <div align="center">
