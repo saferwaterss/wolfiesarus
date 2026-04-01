@@ -4,3 +4,10 @@
 <img src="https://64.media.tumblr.com/dfe90247cddf598fe347945f686eee81/b0312ff9d0c62524-c3/s250x400/38139c5b25c3668521195e9c22b14ca56eb76e2c.gifv" alt="and one blinky">
 <img src="https://64.media.tumblr.com/93cefa5803118ac61ff87493fb7ea6a4/b0312ff9d0c62524-6a/s250x400/c592c596873ea254febeb99644841919f72d1105.gifv" alt="radiohead in rainbows blinky">
 
+<div align="center">
+  # Centered Title
+  Helloww I'm Kieran <3
+  He/Him/They/Them (pref. He/Him)
+  21 | usually with friends
+  All other information can be found on my strawpage !!!
+</div>
