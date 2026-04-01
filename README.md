@@ -14,6 +14,12 @@
 
 
 <div align="center">
+══════════════════════════════════════════════════════════
+✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . ✦　
+︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹୨୧︶︶⊹︶
+</div>
+
+<div align="center">
   Helloww I'm Kieran <3
 </div>
     
@@ -27,6 +33,10 @@
 
 <div align="center">
   All other information can be found on my strawpage !!!
+</div>
+
+<div align="center">
+ ☆⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂ ⠂⠄⠄⠂☆⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂ ⠂⠄☆
 </div>
 
 
