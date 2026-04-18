@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-  socials/gametags: (below)
+  !!! socials/gametags : (below) !!!
 </div>
 
 <div align="center">
