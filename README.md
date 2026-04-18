@@ -36,7 +36,19 @@
 </div>
 
 <div align="center">
-  socials/gametags : Discord - wolfiesarus , Battletag (for OW) - saveahorse#11521 , DBD - i change my name very often on dbd so just ask !
+  socials/gametags: (below)
+</div>
+
+<div align="center">
+  Discord - wolfiesarus
+</div>
+
+<div align="center">
+  Battletag (for Overwatch) - saveahorse#11521
+</div>
+
+<div align="center">
+  Dead By Daylight - I change my name VERY often on dbd, so just ask !
 </div>
 
 <div align="center">
