@@ -28,7 +28,7 @@
 </div>
 
 <div align="center">
-  Emre (ow2) , Hazard (ow2) , Edward Richtofen (cod:bo1-6) yumeshipper ! mirror sharing
+  Emre (ow2) , Hazard (ow2) , Edward Richtofen (cod:bo1-6) , Leon Kennedy yumeshipper ! mirror sharing
 </div>
 
 <div align="center">
