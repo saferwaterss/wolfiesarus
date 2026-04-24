@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
-  Dead By Daylight - I change my name VERY often on dbd, so just ask !
+  Dead By Daylight - ask !
 </div>
 
 <div align="center">
