@@ -36,6 +36,10 @@
 </div>
 
 <div align="center">
+  · · ─ ·✶· ─ · ·
+</div>
+
+<div align="center">
   !!! socials/gametags : (below) !!!
 </div>
 
@@ -49,6 +53,10 @@
 
 <div align="center">
   Dead By Daylight - ask !
+</div>
+
+<div align="center">
+  I love playing OW and DBD with literally anyone, so always feel free to ask to play !
 </div>
 
 <div align="center">
