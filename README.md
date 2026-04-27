@@ -8,9 +8,9 @@
   <img src="https://64.media.tumblr.com/4428b83decf6dbbfb1d63a487ba29069/ce395fe706b7eaa8-41/s100x200/0ce32711595b96c56c86f9206cd31e6e9aa7d0a3.gifv" alt="shark stamp">
 </div>
 
-
-
-
+<div align="center">
+  <img src="https://64.media.tumblr.com/03b932362117dfbecfc9a5824180a430/c751c335e9f91105-d6/s250x400/77fe2af94f21d1fdcb9a6a748fb35bf33968c2f0.gifv" alt="ocean floor stamp">
+</div>
 
 <div align="center">
  ˚˖𓍢ִִ໋🌊🦈˚˖𓍢ִ✧˚.
