@@ -60,6 +60,10 @@
 </div>
 
 <div align="center">
+  ⸝⸝
+</div>
+
+<div align="center">
   All other information can be found on my strawpage !!!
 </div>
 
