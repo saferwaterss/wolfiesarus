@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-  Usually with friends in the CoD area ♡
+  Never not in the CoD area ♡
 </div>
 
 <div align="center">
