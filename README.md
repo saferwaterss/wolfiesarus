@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/1aa34fbdac892cc9d269e45bbc6c14f7/a2a7f24b655fdbcc-5e/s75x75_c1/726f8be78554888fbf116d20e47b087d371d0248.gifv" alt="waves emoji">
-</div>
-
-<div align="center">
   <img src="https://64.media.tumblr.com/4428b83decf6dbbfb1d63a487ba29069/ce395fe706b7eaa8-41/s100x200/0ce32711595b96c56c86f9206cd31e6e9aa7d0a3.gifv" alt="shark stamp">
 </div>
 
