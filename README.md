@@ -1,22 +1,22 @@
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=wolfiesarus&color=green&style=plastic&base=315&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=wolfiesarus&color=blue&style=plastic&base=315&abbreviated=true)
 
 </div>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/fc5f77cf9d4c9a6266ec079465b570fe/d5679393135bb36e-ff/s250x400/8afdcc8ce10c6ef1e72e66c8e72e419219430073.pnj" alt="clovers stamp">
+  <img src="https://64.media.tumblr.com/4428b83decf6dbbfb1d63a487ba29069/ce395fe706b7eaa8-41/s100x200/0ce32711595b96c56c86f9206cd31e6e9aa7d0a3.gifv" alt="shark stamp">
 </div>
 
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/bf8b61d8b1a857b4e53e08047977860b/b4963413b3d05ae7-e2/s250x400/5ce156e439cd52220c2c66e2e81a914dd5045522.gifv" alt="joy and whimsy even blinkie">
+  <img src="https://64.media.tumblr.com/860eb349e1cb530d5d83cd8d270aa04c/840180a87065cc08-31/s400x600/6db6f4ae33c44fcfc24fd2afb209674c70fcbcab.gifv" alt="water tab blinkie">
 </div>
 
 
 
 <div align="center">
- ☆⠄⠄⠂⠁⠁⠂⠄⠄⠂ ⠂⠄⠄⠂☆⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄☆
+ ˚˖𓍢ִִ໋🌊🦈˚˖𓍢ִ✧˚.
 </div>
 
 <div align="center">
@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-  · · ─ ·✶· ─ · ·
+  ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
 </div>
 
 <div align="center">
@@ -68,23 +68,31 @@
 </div>
 
 <div align="center">
-═════════════════════════════════
+═════════════════════════════
 </div>
 
 <div align="center">
-✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . ✦　
+𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 
 </div>
 
 <div align="center">
-୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹୨୧
-</div>
-
-
-<div align="center">
-  <img src="https://64.media.tumblr.com/b87c182aaa1ec9a1354c113163805c7e/b4963413b3d05ae7-4e/s250x400/02b213500d06dabfb8669b7578fb2e2d9025f022.gifv" alt="whimsy rocks blinkie">
+‧˚₊꒷꒦︶︶︶︶︶꒷꒦︶︶︶︶︶꒦꒷‧₊˚⊹ 
 </div>
 
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/c5add88e7517c2adf55174835c7e83a2/d5679393135bb36e-6f/s250x400/5e88ab73a01f9dea3f2682a248792647da2eef6b.pnj" alt="grass blades stamp">
+  <img src="https://64.media.tumblr.com/7ec46eb838703d9618fb767ca3a1de4c/c751c335e9f91105-b1/s250x400/09938ee12c76715938166a570e5048f73f84f2ed.gifv" alt="sharks blinkie">
+</div>
+
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/60d5e978837fa62b5fca710593a58b09/3671a26edef10d5d-17/s100x200/f99ccd922622663c595aa509e19d2a6485b03f3b.gifv" alt="leon stamp">
+</div>
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/3e9ac8a847c02cc02b317f850b20b68d/94de515ad135a9de-bf/s400x600/f0a2cab251d587f807b534b4e7816242c78c5305.gifv" alt="bubbles divider">
+</div>
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/57a611e2dd9ea589765b42ffa85b721d/b0a9bb895889d34c-a6/s400x600/78901ac28020081609572d2bda96f17930954c5f.jpg" alt="leon sticker">
 </div>
