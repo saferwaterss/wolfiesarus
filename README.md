@@ -89,7 +89,7 @@
 </div>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/57a611e2dd9ea589765b42ffa85b721d/b0a9bb895889d34c-a6/s400x600/78901ac28020081609572d2bda96f17930954c5f.jpg" alt="leon sticker">
+  <img src="https://64.media.tumblr.com/e80714e39cbaae0c01c04db781f98ce3/a4b84fccfcb61ce0-cf/s400x600/aa8f1b1c20c65605a6713b399c4396cc63885227.jpg" alt="leon sticker">
 </div>
 
 <div align="center">
