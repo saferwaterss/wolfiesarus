@@ -3,12 +3,6 @@
 </div>
 
 <div align="center">
-  
-![](https://komarev.com/ghpvc/?username=wolfiesarus&color=blue&style=plastic&base=315&abbreviated=true)
-
-</div>
-
-<div align="center">
   <img src="https://64.media.tumblr.com/4428b83decf6dbbfb1d63a487ba29069/ce395fe706b7eaa8-41/s100x200/0ce32711595b96c56c86f9206cd31e6e9aa7d0a3.gifv" alt="shark stamp">
 </div>
 
@@ -96,6 +90,12 @@
 
 <div align="center">
   <img src="https://64.media.tumblr.com/57a611e2dd9ea589765b42ffa85b721d/b0a9bb895889d34c-a6/s400x600/78901ac28020081609572d2bda96f17930954c5f.jpg" alt="leon sticker">
+</div>
+
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=wolfiesarus&color=blue&style=plastic&base=315&abbreviated=true)
+
 </div>
 
 <div align="center">
