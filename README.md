@@ -93,6 +93,10 @@
 </div>
 
 <div align="center">
+  <img src="https://64.media.tumblr.com/3e9ac8a847c02cc02b317f850b20b68d/94de515ad135a9de-bf/s400x600/f0a2cab251d587f807b534b4e7816242c78c5305.gifv" alt="bubbles divider">
+</div>
+
+<div align="center">
   
 ![](https://komarev.com/ghpvc/?username=wolfiesarus&color=blue&style=plastic&base=315&abbreviated=true)
 
