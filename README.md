@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  Helloww I'm Kieran/Wolfie <3
+  Helloww I'm Kieran <3
 </div>
     
 <div align="center">
@@ -28,7 +28,7 @@
 </div>
 
 <div align="center">
-  Emre (ow2) , Hazard (ow2) , Edward Richtofen (cod:bo1-6) , Leon Kennedy (rese) yumeshipper ! mirror sharing
+  c+h ALWAYSSS okay with me , w2i if I have afk/off-tab in name !
 </div>
 
 <div align="center">
