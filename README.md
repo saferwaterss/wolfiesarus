@@ -9,9 +9,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://64.media.tumblr.com/860eb349e1cb530d5d83cd8d270aa04c/840180a87065cc08-31/s400x600/6db6f4ae33c44fcfc24fd2afb209674c70fcbcab.gifv" alt="water tab blinkie">
-</div>
 
 
 
