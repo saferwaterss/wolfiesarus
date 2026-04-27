@@ -93,3 +93,7 @@
 <div align="center">
   <img src="https://64.media.tumblr.com/57a611e2dd9ea589765b42ffa85b721d/b0a9bb895889d34c-a6/s400x600/78901ac28020081609572d2bda96f17930954c5f.jpg" alt="leon sticker">
 </div>
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/c795ca65f97f9182ab44d15b425acd4e/bd18075af3e4e71a-be/s1280x1920/35a07207b347e9a0d9d2c4e3d01f9fefd4d0e8e3.gifv" alt="anchor divider">
+</div>
